@@ -1,5 +1,5 @@
 {
-  "name": "ari-server",
+  "name": "node-ari",
   "version": "1.0.0",
   "description": "node.js server for interacting with asterisk api",
   "main": "server.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ari-server"
+    "url": "node-ari"
   },
   "author": "liviu mares",
   "license": "ISC",
